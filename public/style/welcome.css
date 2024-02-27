@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+img {
+    height: 100vh;
+    width: 100vw;
+}
+
+.hp {
+    font-size: 5em;
+}
+
+.ubt {
+    background-image: linear-gradient(to right, #56E0E0, #007299);
+}
+
+.ubt:hover {
+    background-image: linear-gradient(to right, #61ffff, #0298ca);
+}
+
+.vbt {
+    background-image: linear-gradient(#56E0E0, #007299);
+}
+
+.vbt:hover {
+    background-image: linear-gradient(#61ffff, #0298ca);
+}
+
+.containerr {
+    background-color: white;
+}
+
